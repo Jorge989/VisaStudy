@@ -30,7 +30,7 @@ function App() {
   <div className="grrendivblue">
 
 </div>
- <img src={credit} color="visa"></img> 
+ <img src={credit} color="visa" alt="visacredit"></img> 
 </div>
 
 </Section>
